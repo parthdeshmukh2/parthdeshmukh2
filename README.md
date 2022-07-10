@@ -22,7 +22,7 @@
 
 - 💞️ I like to reading books and playing cricket.
 
-- 💬 Have a look at my [portfolio](https://portfolio-nine-snowy-51.vercel.app/).
+- 💬 Have a look at my [portfolio](https://parth-deshmukh.vercel.app/).
 
 
   
